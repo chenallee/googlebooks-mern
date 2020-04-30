@@ -26,4 +26,4 @@ module.exports = {
 
         return res.json(deletedBook);
     }
-}
+};
