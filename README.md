@@ -6,7 +6,7 @@ A full stack MERN application that allows the user to bookmark books found from 
 Check out the live site [here](https://fierce-reaches-88613.herokuapp.com/).
 
 ## technologies
-The site was made with (create react app)[https://create-react-app.dev/] using [bootstrap](https://react-bootstrap.github.io/) components on the front end. On the back end it uses [mongoose](https://mongoosejs.com/) and [mongo](https://www.mongodb.com/) for the database and runs on a [node.js](https://nodejs.org/en/) [express](https://expressjs.com/) server.
+The site was made with [create react app](https://create-react-app.dev/) using [bootstrap](https://react-bootstrap.github.io/) components on the front end. On the back end it uses [mongoose](https://mongoosejs.com/) and [mongo](https://www.mongodb.com/) for the database and runs on a [node.js](https://nodejs.org/en/) [express](https://expressjs.com/) server.
 
 ## final thoughts
 I understand the structure for this type of full stack application on a basic enough level to replicate something similar, but I'm not confident in being able to explain how everything works behind the scenes in great detail.
