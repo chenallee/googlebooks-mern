@@ -1,7 +1,7 @@
 # googlebooks-mern
 
 ## description
-A full stack MERN application that allows the user to bookmark books found from the [Google Books API](https://developers.google.com/books), and check out a list of all saved books. There is no authentication so the database just stores the saved books, unassociated with a particular user. 
+A full stack MERN application that allows the user to bookmark books found from the [Google Books API](https://developers.google.com/books), and check out a list of all saved books. There is no authentication so the database just stores the saved books, and does not associate them with a particular user. 
 
 Check out the live site [here](https://fierce-reaches-88613.herokuapp.com/).
 
