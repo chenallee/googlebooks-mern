@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/chenallee/googlebooks-mern#readme",
   "dependencies": {
+    "@material-ui/core": "^4.10.1",
+    "@material-ui/icons": "^4.9.1",
     "if-env": "^1.0.4"
   },
   "devDependencies": {

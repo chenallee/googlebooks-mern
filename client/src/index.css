@@ -1,5 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
+  background-color: #E4D7C8;
+  color: rgb(65, 65, 65);
 }
 
 h1,
@@ -15,3 +17,5 @@ h6 {
   font-weight: 300;
   font-style: italic;
 }
+
+
